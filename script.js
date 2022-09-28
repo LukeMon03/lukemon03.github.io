@@ -5,9 +5,9 @@ function decideRaysFate(color) {
     console.log(color);
 }
 
-    function move(state){
-    console.log(state)
-    const button = document.getElementById*("Dear-God-What-Have-You-done")
-    button.style.color = 'hotpink';
+function TheyPressedTheButton(){
+    window.location.replace("https://www.youtube.com/watch?v=ay8qBx54AKA");
 }
+
+
     
